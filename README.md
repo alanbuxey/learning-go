@@ -32,7 +32,7 @@ https://golang.org/doc/install
 We assume you already have a working Git environment on your system , if not, install 'git'
 or Github Desktop
 
-https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git or 
 https://desktop.github.com/
 
 To get a file, simply check it out of Github and then run it locally 
