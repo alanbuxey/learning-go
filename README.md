@@ -37,9 +37,10 @@ https://desktop.github.com/
 
 To get a file, simply check it out of Github and then run it locally 
 
+```
 git checkout alanbuxey/learning-go
 cd learning-go
 go build xxxx.go      (replace xxxx with file of interest)
 ./xxxx   (replace xxxx with file thats just been generated)
-
+```
 
